@@ -1,0 +1,40 @@
+* {
+     font-family: sans-serif;
+     color: white;
+     background-color: darkslategrey;
+ }
+
+iframe {
+    width: 100%;
+    height: 100%;
+}
+
+.user-content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 10% 10%;
+}
+
+.album-btn {
+    background-color: white;
+    padding: 1em 2em;
+    margin: auto 1em;
+    transition: 0.3s;
+    font-size: 1.2em;
+    color: black;
+}
+
+.album-btn:hover {
+    background-color: #dddddd;
+}
+
+.user-input-group {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    grid-gap: 2em;
+}
+body{
+    display: flex;
+    justify-content: center;
+}

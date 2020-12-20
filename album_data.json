@@ -1,0 +1,366 @@
+{
+    "albums": {
+      "1":{
+        "title": "2012 - 2017",
+        "artist": "Against All Logic",
+        "embed": "1uzfGk9vxMXfaZ2avqwxod",
+        "track": "Some Kind of Game",
+        "link1": 2,
+        "link2": 3,
+        "link3": 4
+      },
+      "2":{
+        "title": "Hard Normal Daddy",
+        "artist": "Squarepusher",
+        "embed": "1CPBXIsx6Km7ZvDmvM0gYS",
+        "track": "Beep Street",
+        "link1": ,
+        "link2": ,
+        "link3":
+      },
+      "3":{
+        "title": "Suzuki",
+        "artist": "Tosca",
+        "embed": "36ogL93DPRBSrAKjenPLwe",
+        "track": "Boss On The Boar",
+        "link1": ,
+        "link2": ,
+        "link3":
+      },
+      "4":{
+        "title": "Space Is Only Noise",
+        "artist": "Nicolas Jaar",
+        "embed": "0tUJcqDuXHNkaPKLN0lQhT",
+        "track": "Specters of the Future",
+        "link1": ,
+        "link2": ,
+        "link3":
+      },
+      "5":{
+        "title": "Compro",
+        "artist": "Skee Mask",
+        "embed": "3yXIkSJWpudtgF0TZuB16U",
+        "track": "Soundboy Ext.",
+        "link1": ,
+        "link2": ,
+        "link3":
+      },
+      "6":{
+        "title": "The Lotus Eaters",
+        "artist": "mrkgnao",
+        "embed": "5QLwiWguhUc3MTgBsk7LcY",
+        "track": "Going",
+        "link1": ,
+        "link2": ,
+        "link3":
+      },
+      "7":{
+        "title": "Play",
+        "artist": "Moby",
+        "embed": "1xB1tmm50ZhXwrNs89u7Jx",
+        "track": "Natural Blues",
+        "link1": ,
+        "link2": ,
+        "link3":
+      },
+      "8":{
+        "title": "The Campfire Headphase",
+        "artist": "Boards Of Canada",
+        "embed": "0wBiN0fKhy0ywx732SpgUs",
+        "track": "Dayvan Cowboy",
+        "link1": ,
+        "link2": ,
+        "link3":
+      },
+      "9":{
+        "title": "Twoism",
+        "artist": "Board of Canada",
+        "embed": "0LDCQOBp7NFjkD1LbuusCG",
+        "track": "Sixtyniner",
+        "link1": ,
+        "link2": ,
+        "link3":
+      },
+      "10":{
+        "title": "Draining Love Story",
+        "artist": "Sewerslvt",
+        "embed": "3yQqw6ZJDHey6HZCpsrFTb",
+        "track": "Swinging in His Cell",
+        "link1": ,
+        "link2": ,
+        "link3":
+      },
+      "11":{
+        "title": "The Disintegration Loops",
+        "artist": "William Basinski",
+        "embed": "1xVP4eFcagXNtQMvEXfyeV",
+        "track": "dlp 1.1",
+        "link1": ,
+        "link2": ,
+        "link3":
+      },
+      "12":{
+        "title": "99.9%",
+        "artist": "KAYTRANADA",
+        "embed": "6JD4Qerb8IcaAzFgpFw0sa",
+        "track": "BULLETS",
+        "link1": ,
+        "link2": ,
+        "link3":
+      },
+      "13":{
+        "title": "Tomorrow's Modern Boxes",
+        "artist": "Thom Yorke",
+        "embed": "48mLH4Pm2BErDEQC7YT1xW",
+        "track": "The Mother Lode",
+        "link1": ,
+        "link2": ,
+        "link3":
+      },
+      "14":{
+        "title": "Ambient 1/Music For Airports",
+        "artist": "Brian Eno",
+        "embed": "063f8Ej8rLVTz9KkjQKEMa",
+        "track": "1/1",
+        "link1": ,
+        "link2": ,
+        "link3":
+      },
+      "15":{
+        "title": "Geogaddi",
+        "artist": "Boards of Canada",
+        "embed": "7Lou3RDk6NswmbzBMhro24",
+        "track": "Dawn Chorus",
+        "link1": ,
+        "link2": ,
+        "link3":
+      },
+      "16":{
+        "title": "Drukqs",
+        "artist": "Aphex Twin",
+        "embed": "48mLH4Pm2BErDEQC7YT1xW",
+        "track": "Vordhosbn",
+        "link1": ,
+        "link2": ,
+        "link3":
+      },
+      "17":{
+        "title": "Ceres & Calypso in the Deep Time",
+        "artist": "Candy Claws",
+        "embed": "5KkGAZrad4N4rc5FriwgzU",
+        "track": "Vordhosbn",
+        "link1": ,
+        "link2": ,
+        "link3":
+      },
+      "18":{
+        "title": "Merriweather Post Pavilion",
+        "artist": "Animal Collective",
+        "embed": "5O9OXl9zAWMJTzawofxuan",
+        "track": "My Girls",
+        "link1": ,
+        "link2": ,
+        "link3":
+      },
+      "19":{
+        "title": "Lonerism",
+        "artist": "Tame Impala",
+        "embed": "3C2MFZ2iHotUQOSBzdSvM7",
+        "track": "Feels Like We Only Go Backwards",
+        "link1": ,
+        "link2": ,
+        "link3":
+      },
+      "20":{
+        "title": "Since I Left You",
+        "artist": "The Avalanches",
+        "embed": "3GBnNRYsxBfEeMSMmTpJ25",
+        "track": "Radio",
+        "link1": ,
+        "link2": ,
+        "link3":
+      },
+      "21":{
+        "title": "Cosmogramma",
+        "artist": "Flying Lotus",
+        "embed": "5c7XChrHxYaqykCZLaGM5f",
+        "track": "Computer Face//Pure Being",
+        "link1": ,
+        "link2": ,
+        "link3":
+      },
+      "22":{
+        "title": "Since I Left You",
+        "artist": "The Avalanches",
+        "embed": "3GBnNRYsxBfEeMSMmTpJ25",
+        "track": "Radio",
+        "link1": ,
+        "link2": ,
+        "link3":
+      },
+      "23":{
+        "title": "Body Riddle",
+        "artist": "Clark",
+        "embed": "04onGeB7bKwWHPPTXAiszV",
+        "track": "Night Knuckles",
+        "link1": ,
+        "link2": ,
+        "link3":
+      },
+      "24":{
+        "title": "Velocity: Design: Comfort",
+        "artist": "Sweet Trip",
+        "embed": "0eUUQ4rly8Q8PyJPWLgde2",
+        "track": "Chocolate Matter",
+        "link1": ,
+        "link2": ,
+        "link3":
+      },
+      "25":{
+        "title": "Loveless",
+        "artist": "My Bloody Valentine",
+        "embed": "3GH4IiI6jQAIvnHVdb5FB6",
+        "track": "I Only Said",
+        "link1": ,
+        "link2": ,
+        "link3":
+      },
+      "26":{
+        "title": "Moon Safari",
+        "artist": "Air",
+        "embed": "206GTDefY2qRMQxYXmfb0a",
+        "track": "La femme d'argent",
+        "link1": ,
+        "link2": ,
+        "link3":
+      },
+      "27":{
+        "title": "Discovery",
+        "artist": "Daft Punk",
+        "embed": "2noRn2Aes5aoNVsU6iWThc",
+        "track": "High Life",
+        "link1": ,
+        "link2": ,
+        "link3":
+      },
+      "28":{
+        "title": "Bicep",
+        "artist": "Bicep",
+        "embed": "4psDRFbIlUM1KUb1omccXo",
+        "track": "Glue",
+        "link1": ,
+        "link2": ,
+        "link3":
+      },
+      "29":{
+        "title": "Ultima II Massage",
+        "artist": "TOBACCO",
+        "embed": "2G172t9joEhgY1QNYP4nAU",
+        "track": "Father Sister Berzerker",
+        "link1": ,
+        "link2": ,
+        "link3":
+      },
+      "30":{
+        "title": "Selected Ambient Works 85-92",
+        "artist": "Aphex Twin",
+        "embed": "7aNclGRxTysfh6z0d8671k",
+        "track": "Actium",
+        "link1": ,
+        "link2": ,
+        "link3":
+      },
+      "31":{
+        "title": "Big Calm",
+        "artist": "Morcheeba",
+        "embed": "7rjjFxMFZjPzQzBMj6mXr2",
+        "track": "The Sea",
+        "link1": ,
+        "link2": ,
+        "link3":
+      },
+      "32":{
+        "title": "Mother Earth's Plantasia",
+        "artist": "Mort Garson",
+        "embed": "4Pj4zPHuEUPtfacdeTlqUG",
+        "track": "Symphony for a Spider Plant",
+        "link1": ,
+        "link2": ,
+        "link3":
+      },
+      "33":{
+        "title": "Uncut Gems - Original Motion Picture Soundtrack",
+        "artist": "Daniel Lopatin",
+        "embed": "3pvGQtSsi9LGcPIZ7plWYe",
+        "track": "The Bet Hits",
+        "link1": ,
+        "link2": ,
+        "link3":
+      },
+      "34":{
+        "title": "In Colour",
+        "artist": "Jamie xx",
+        "embed": "04Duapg2mNlVykd895xcfZ",
+        "track": "Obvs",
+        "link1": ,
+        "link2": ,
+        "link3":
+      }
+      "35":{
+        "title": "Richard D. James Album",
+        "artist": "Aphex Twin",
+        "embed": "43s2fKRQsOSB6rSrxtAXKK",
+        "track": "4",
+        "link1": ,
+        "link2": ,
+        "link3":
+      },
+      "36":{
+        "title": "Malibu Ken",
+        "artist": "Malibu Ken",
+        "embed": "3Xh4OCCACL8BxKDOl413DI",
+        "track": "1+1=13",
+        "link1": ,
+        "link2": ,
+        "link3":
+      },
+      "37":{
+        "title": "Mezzanine",
+        "artist": "Massive Attack",
+        "embed": "49MNmJhZQewjt06rpwp6QR",
+        "track": "Teardrop",
+        "link1": ,
+        "link2": ,
+        "link3":
+      },
+      "38":{
+        "title": "Dummy",
+        "artist": "Portishead",
+        "embed": "3539EbNgIdEDGBKkUf4wno",
+        "track": "Sour Times",
+        "link1": ,
+        "link2": ,
+        "link3":
+      },
+      "39":{
+        "title": "Odyssey",
+        "artist": "Home",
+        "embed": "2Nz9gdj35Unk1AbfL8Igmx",
+        "track": "On the Way Out",
+        "link1": ,
+        "link2": ,
+        "link3":
+      },
+      "40":{
+        "title": "One Hundred Mornings",
+        "artist": "Windows 96",
+        "embed": "3ggIpl7qJQlrtSQkP5GY1Q",
+        "track": "Caligula",
+        "link1": ,
+        "link2": ,
+        "link3":
+      }
+    }
+}
+
+
